@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.verticalLine {
+  border-left: solid #000000;
+}
+
+#grandmaster {
+  float: left ;
+  width: 15% ;
+}
+#master {
+  float: left;
+  width: 15%;
+}
+#knight {
+  float: left;
+  width: 15%;
+}
+#padawan {
+  float: left;
+  width: 15%;
+}
+#youngling {
+  float: left;
+  width: 15%;
+}
