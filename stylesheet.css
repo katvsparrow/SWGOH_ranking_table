@@ -5,30 +5,51 @@
 }
 
 .verticalLine {
-  border-left: solid #000000;
+  border-right: 3px solid #000000;
+  height = 1000px;
+}
+
+hr {
+    display: block;
+    height: 3px;
+    border: 0;
+    border-top: 3px solid #000000;
+    margin: 1em 0;
+    padding: 0; 
 }
 
 #grandmaster {
-  float: left ;
-  width: 15% ;
+  float: left;
+  width: 15%;
+  height: 1000px;
+  padding-left: 2%;
+  padding-right: 2%;
 }
 #master {
   float: left;
   width: 15%;
-  padding-left: 5%;
+  padding-left: 2%;
+  padding-right: 2%;
+  height: 1000px;
 }
 #knight {
   float: left;
   width: 15%;
-  padding-left: 5%;
+  padding-left: 2%;
+  padding-right: 2%;
+  height: 1000px;
 }
 #padawan {
   float: left;
   width: 15%;
-  padding-left: 5%;
+  padding-left: 2%;
+  padding-right: 2%;
+  height: 1000px;
 }
 #youngling {
   float: left;
   width: 15%;
-  padding-left: 5%;
+  padding-left: 2%;
+  padding-right: 2%;
+  height: 1000px;
 }
