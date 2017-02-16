@@ -15,16 +15,20 @@
 #master {
   float: left;
   width: 15%;
+  padding-left: 5%;
 }
 #knight {
   float: left;
   width: 15%;
+  padding-left: 5%;
 }
 #padawan {
   float: left;
   width: 15%;
+  padding-left: 5%;
 }
 #youngling {
   float: left;
   width: 15%;
+  padding-left: 5%;
 }
