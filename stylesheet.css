@@ -1,20 +1,22 @@
 @charset "utf-8";
 
+@font-face { font-family: Starjedi; src: url('fonts/Starjedi.ttf'); } 
+
 .img-circle {
     border-radius: 50%;
-	padding: 2.5%;
+	padding: 2.3%;
 }
 
 .verticalLine {
-  border-right: 3px solid #000000;
-  height = 1000px;
+  border-right: 3px solid #ffffff;
+  height = 100%;
 }
 
 hr {
     display: block;
     height: 3px;
     border: 0;
-    border-top: 3px solid #000000;
+    border-top: 3px solid #ffffff;
     margin: 1em 0;
     padding: 0; 
 }
@@ -22,35 +24,35 @@ hr {
 #grandmaster {
   float: left;
   width: 15%;
-  height: 1000px;
-  padding-left: 2%;
-  padding-right: 2%;
+  height: 700px;
+  padding-left: 2.3%;
+  padding-right: 2.3%;
 }
 #master {
   float: left;
   width: 15%;
-  padding-left: 2%;
-  padding-right: 2%;
-  height: 1000px;
+  padding-left: 2.3%;
+  padding-right: 2.3%;
+  height: 700px;
 }
 #knight {
   float: left;
   width: 15%;
-  padding-left: 2%;
-  padding-right: 2%;
-  height: 1000px;
+  padding-left: 2.3%;
+  padding-right: 2.3%;
+  height: 700px;
 }
 #padawan {
   float: left;
   width: 15%;
-  padding-left: 2%;
-  padding-right: 2%;
-  height: 1000px;
+  padding-left: 2.3%;
+  padding-right: 2.3%;
+  height: 700px;
 }
 #youngling {
   float: left;
   width: 15%;
-  padding-left: 2%;
-  padding-right: 2%;
-  height: 1000px;
+  padding-left: 2.3%;
+  padding-right: 2.3%;
+  height: 700px;
 }
