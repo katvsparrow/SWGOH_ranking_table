@@ -1,10 +1,29 @@
 @charset "utf-8";
 
-@font-face { font-family: Starjedi; src: url('fonts/Starjedi.ttf'); } 
+@font-face { font-family: Starjedi; src: url('fonts/starjedi/Starjedi.ttf'); }
+@font-face { font-family: Franklin Gothic Book; src: url('fonts/franklin-gothic-book/FRABK.ttf'); } 
+
+html {
+    border-right-color:#C0C0C0;
+    border-right-width:100px; /*adjust pixel width if need be */
+    border-right-style:ridge;
+    border-left-color:#C0C0C0;
+    border-left-width:100px; /* adjust pixel width if need be */
+    border-left-style:ridge;
+    border-bottom:1px;
+	overflow:auto;
+}
+
+p.crawl {
+	line-height: 1.5em;
+	font-size:18px; 
+	font-family:Franklin Gothic Book; 
+	color:#4bd5ee
+}
 
 .img-circle {
     border-radius: 50%;
-	padding: 2.3%;
+	padding: 1.1%;
 }
 
 .verticalLine {
@@ -25,34 +44,34 @@ hr {
   float: left;
   width: 15%;
   height: 700px;
-  padding-left: 2.3%;
-  padding-right: 2.3%;
+  padding-left: 2%;
+  padding-right: 2%;
 }
 #master {
   float: left;
   width: 15%;
-  padding-left: 2.3%;
-  padding-right: 2.3%;
+  padding-left: 2%;
+  padding-right: 2%;
   height: 700px;
 }
 #knight {
   float: left;
   width: 15%;
-  padding-left: 2.3%;
-  padding-right: 2.3%;
+  padding-left: 2%;
+  padding-right: 2%;
   height: 700px;
 }
 #padawan {
   float: left;
   width: 15%;
-  padding-left: 2.3%;
-  padding-right: 2.3%;
+  padding-left: 2%;
+  padding-right: 2%;
   height: 700px;
 }
 #youngling {
   float: left;
   width: 15%;
-  padding-left: 2.3%;
-  padding-right: 2.3%;
+  padding-left: 2%;
+  padding-right: 2%;
   height: 700px;
 }
