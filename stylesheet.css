@@ -4,12 +4,12 @@
 @font-face { font-family: Franklin Gothic Book; src: url('fonts/franklin-gothic-book/FRABK.ttf'); } 
 
 html {
-    border-right-color:#C0C0C0;
-    border-right-width:100px; /*adjust pixel width if need be */
+    /*border-right-color:#C0C0C0;
+    border-right-width:100px; 
     border-right-style:ridge;
     border-left-color:#C0C0C0;
-    border-left-width:100px; /* adjust pixel width if need be */
-    border-left-style:ridge;
+    border-left-width:100px;
+    border-left-style:ridge;*/
     border-bottom:1px;
 	overflow:auto;
 }
@@ -49,9 +49,16 @@ p.crawl {
 	color:#4bd5ee
 }
 
-.img-circle {
+img.circle-ls {
     border-radius: 50%;
-	padding: 1.1%;
+	padding: 2.5%;
+	border: 2px solid teal /*#468EB2*/;
+}
+
+img.circle-ds {
+	border-radius: 50%;
+	padding: 2.5%;
+	border: 2px solid red /*#e26e6b*/;
 }
 
 .verticalLine {
