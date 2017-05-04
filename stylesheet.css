@@ -55,13 +55,13 @@ p.crawl {
 
 img.circle-ls {
     border-radius: 50%;
-	padding: 2.5%;
+	padding: 5%;
 	border: 2px solid #00577d /*#468EB2*/;
 }
 
 img.circle-ds {
 	border-radius: 50%;
-	padding: 2.5%;
+	padding: 5%;
 	border: 2px solid #962428 /*#e26e6b*/;
 }
 
