@@ -1,7 +1,7 @@
 @charset "utf-8";
 
-@font-face { font-family: Starjedi; src: url('../fonts/starjedi/Starjedi.ttf'); }
-@font-face { font-family: Franklin Gothic Book; src: url('../fonts/franklin-gothic-book/FRABK.ttf'); } 
+@font-face { font-family: Starjedi; src: url('fonts/starjedi/Starjedi.ttf'); }
+@font-face { font-family: Franklin Gothic Book; src: url('fonts/franklin-gothic-book/FRABK.ttf'); } 
 
 html {
     /*border-right-color:#C0C0C0;
