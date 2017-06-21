@@ -46,7 +46,7 @@ li a:hover:not(.active).navbar {
     background-color: #4CAF50;
 }
 
-p.crawl {
+.crawl {
 	line-height: 1.5em;
 	font-size:18px; 
 	font-family:Franklin Gothic Book; 
