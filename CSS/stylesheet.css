@@ -56,27 +56,27 @@ li a:hover:not(.active).navbar {
 img.circle-ls {
     border-radius: 50%;
 	border: 2px solid #00577d /*#468EB2*/;
-    filter: grayscale(100%);
-	margin: 5px;
+    /*filter: grayscale(100%);*/
+	margin: 2px;
 }
 
 img.circle-ls-vid {
     border-radius: 50%;
 	border: 2px solid #00577d /*#468EB2*/;
-	margin: 5px;
+	margin: 2px;
 }
 
 img.circle-ds {
 	border-radius: 50%;
 	border: 2px solid #962428 /*#e26e6b*/;
-    filter: grayscale(100%);
-	margin: 5px;
+    /*filter: grayscale(100%);*/
+	margin: 2px;
 }
 
 img.circle-ds-vid {
 	border-radius: 50%;
 	border: 2px solid #962428 /*#e26e6b*/;
-	margin: 5px;
+	margin: 2px;
 }
 
 .verticalLine {
